@@ -1,4 +1,4 @@
-# IMPLEMENTAR TALLER DE WS+REDIS+TOKEN SEGURO
+# Secure BlackBoard MVC
 
 Tablero interactivo multiusuario con seguridad en websockets
 
